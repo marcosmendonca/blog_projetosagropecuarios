@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Blog Projetos Agropecuarios",
+    "description": "",
+    "home_page_url": "https://marcosmendonca.github.io/blog_projetosagropecuarios",
+    "feed_url": "https://marcosmendonca.github.io/blog_projetosagropecuarios/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Projetos agropecuarios"
+    },
+    "items": [
+        {
+            "id": "https://marcosmendonca.github.io/blog_projetosagropecuarios/teste-de-blog/",
+            "url": "https://marcosmendonca.github.io/blog_projetosagropecuarios/teste-de-blog/",
+            "title": "Teste de Blog",
+            "summary": "Teste de blog do publii e github pages",
+            "content_html": "<p>Teste de blog do publii e github pages</p>",
+            "author": {
+                "name": "Projetos agropecuarios"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-07-14T14:47:25-03:00",
+            "date_modified": "2021-07-14T14:47:25-03:00"
+        }
+    ]
+}
